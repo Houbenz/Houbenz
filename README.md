@@ -2,7 +2,7 @@
 Welcome to my profile, you'll find below the skills that i acquired throughout the years and the things i'm familiar/gained experience when you using them feel free to contact at any time !
 
 ## Competency in programming/markup languages :  
-
+<pre>
 Java:            ⭐⭐⭐⭐⭐  
 Javascript:      ⭐⭐⭐⭐⭐  
 HTML/CSS:        ⭐⭐⭐⭐⭐  
@@ -10,15 +10,15 @@ Dart:            ⭐⭐⭐⭐
 Kotlin:          ⭐⭐⭐  
 Ruby:            ⭐⭐⭐  
 PHP:             ⭐⭐⭐  
-
+</pre>
 ## Competency with frameworks:  
-
+<pre>
 Flutter:         ⭐⭐⭐⭐⭐  
 Vuejs/Vue-CLI:   ⭐⭐⭐⭐  
 Ruby on rails:   ⭐⭐⭐  
 Android Sdk:     ⭐⭐⭐⭐  
 Laravel:         ⭐⭐⭐  
-
+</pre>
 ## Tools for Team management that i'm familiar with:  
 Jira  
 Notion  
